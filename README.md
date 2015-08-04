@@ -36,7 +36,7 @@ puts local_variable
 Instance variables are available to all instance methods in a class. They are defined in the following manner:
 
 ```ruby
-@my_instance variable = "hey there! I'm available to all instance methods in a class!"
+@my_instance_variable = "hey there! I'm available to all instance methods in a class!"
 ```
 
 ## Class Variables
